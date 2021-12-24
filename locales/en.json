@@ -42,5 +42,8 @@
 	"email_verified": "email_verified",
 	"email_password_required": "Valid email and password required",
 	"user_created": "user_created",
-	"user_login_success": "user_login_success"
+	"user_login_success": "user_login_success",
+	"reminder_not_found": "reminder not found",
+	"reminder_added_successfully": "reminder_added_successfully",
+	"reminder_updated_successfully": "reminder_updated_successfully"
 }

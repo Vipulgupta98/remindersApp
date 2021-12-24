@@ -13,6 +13,57 @@ export class remindersController {
     this.remindersService = new remindersService();
   }
 
+  public addReminder = async (req: Request, res: Response): Promise<void> => {
+    const {
+      body: {
+        userId,
+        reminderName,
+        description,
+        reminderDate,
+        status
+      },
+    } = req;
+    const response = await this.remindersService.addReminder(
+        userId,
+        reminderName,
+        description,
+        reminderDate,
+        status
+    ); // gets all the devices present in the db
+    this.responseParser
+      .setStatus(true)
+      .setHttpCode(constant.HTTP_STATUS_CREATED)
+      .setBody(response)
+      .setMessage(i18n.__('reminder_added_successfully'))
+      .send(res);
+  };
+
+  public updateReminder = async (req: Request, res: Response): Promise<void> => {
+    const {
+      body: { 
+        userId,
+        reminderId,
+        reminderName,
+        description,
+        reminderDate,
+        status
+       },
+    } = req;
+    const response = await this.remindersService.updateReminder(
+        userId,
+        reminderId,
+        reminderName,
+        description,
+        reminderDate,
+        status
+    ); // gets all the devices present in the db
+    this.responseParser
+      .setStatus(true)
+      .setHttpCode(constant.HTTP_STATUS_CREATED)
+      .setBody(response)
+      .setMessage(i18n.__('reminder_updated_successfully'))
+      .send(res);
+  };
 //   public defaultCheck = (req: Request, res: Response): void => {
 //     this.responseParser
 //       .setHttpCode(constant.HTTP_STATUS_OK)

@@ -26,8 +26,27 @@ const updatePassword = Joi.object({
   newPassword: Joi.string().required(),
 });
 
+const reminder = Joi.object({
+  userId: Joi.string().uuid().required(),
+  reminderName: Joi.string().required(),
+  description: Joi.string().required(),
+  reminderDate: Joi.date().required(),
+  status: Joi.string().required().valid('completed','open')
+})
+const updateReminder = Joi.object({
+  userId: Joi.string().uuid().required(),
+  reminderId: Joi.string().required(),
+  reminderName: Joi.string().optional(),
+  description: Joi.string().optional(),
+  reminderDate: Joi.date().optional(),
+  status: Joi.string().optional().valid('completed','open')
+})
+
 export {
   userRegisterValidator,
   loginDetails,
-  updatePassword
+  updatePassword,
+  reminder,
+  updateReminder
 };
+

@@ -1625,3 +1625,171 @@
 2021-12-22T12:01:18.330Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
 2021-12-22T12:01:18.331Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
 2021-12-22T12:01:18.520Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-23T15:27:24.926Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-23T15:27:26.933Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-23T15:27:26.933Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-23T15:27:27.255Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-23T15:33:22.541Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '62c89d40-261c-40c7-a1a5-b73f0625b123',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$POu8PG2i7Lyb84H8Sy62T.EhU7ZYDjM3pIiJvyfsscJbyIMQ9hTmW',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640273593,[39m
+[34m  exp: 1640359993[39m
+[34m}[39m
+2021-12-23T15:43:05.800Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-23T15:43:07.526Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-23T15:43:07.527Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-23T15:43:07.721Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-23T15:44:35.675Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-23T15:44:37.319Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-23T15:44:37.319Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-23T15:44:37.513Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-23T15:45:13.447Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-23T15:45:14.847Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-23T15:45:14.848Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-23T15:45:15.030Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-23T15:47:46.796Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '62c89d40-261c-40c7-a1a5-b73f0625b123',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$POu8PG2i7Lyb84H8Sy62T.EhU7ZYDjM3pIiJvyfsscJbyIMQ9hTmW',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640273593,[39m
+[34m  exp: 1640359993[39m
+[34m}[39m
+2021-12-23T15:48:37.480Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '62c89d40-261c-40c7-a1a5-b73f0625b123',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$POu8PG2i7Lyb84H8Sy62T.EhU7ZYDjM3pIiJvyfsscJbyIMQ9hTmW',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640273593,[39m
+[34m  exp: 1640359993[39m
+[34m}[39m
+2021-12-23T15:49:16.195Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-23T15:49:17.932Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-23T15:49:17.933Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-23T15:49:18.115Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-23T18:26:37.144Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-23T18:26:38.931Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-23T18:26:38.931Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-23T18:26:39.217Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-23T18:27:26.172Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '0584b56e-7bd5-41ca-ba21-33daf9f391c4',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$AOmVDcEHkp3z8sObdQyVtuY8sodVFzAiKNDt4dBRtR5bS8Bs1StPC',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640284026,[39m
+[34m  exp: 1640370426[39m
+[34m}[39m
+2021-12-23T18:27:35.868Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '0584b56e-7bd5-41ca-ba21-33daf9f391c4',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$AOmVDcEHkp3z8sObdQyVtuY8sodVFzAiKNDt4dBRtR5bS8Bs1StPC',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640284026,[39m
+[34m  exp: 1640370426[39m
+[34m}[39m
+2021-12-23T18:27:37.769Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '0584b56e-7bd5-41ca-ba21-33daf9f391c4',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$AOmVDcEHkp3z8sObdQyVtuY8sodVFzAiKNDt4dBRtR5bS8Bs1StPC',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640284026,[39m
+[34m  exp: 1640370426[39m
+[34m}[39m
+2021-12-23T18:28:29.122Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-23T18:28:30.735Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-23T18:28:30.736Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-23T18:28:30.926Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-24T15:38:08.401Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-24T15:38:10.320Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-24T15:38:10.321Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-24T15:38:10.551Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-24T15:38:59.399Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-24T15:39:01.050Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-24T15:39:01.051Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-24T15:39:01.263Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-24T15:39:16.080Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '0584b56e-7bd5-41ca-ba21-33daf9f391c4',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$AOmVDcEHkp3z8sObdQyVtuY8sodVFzAiKNDt4dBRtR5bS8Bs1StPC',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640284026,[39m
+[34m  exp: 1640370426[39m
+[34m}[39m
+2021-12-24T15:39:17.925Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '0584b56e-7bd5-41ca-ba21-33daf9f391c4',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$AOmVDcEHkp3z8sObdQyVtuY8sodVFzAiKNDt4dBRtR5bS8Bs1StPC',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640284026,[39m
+[34m  exp: 1640370426[39m
+[34m}[39m
+2021-12-24T15:39:35.986Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '0584b56e-7bd5-41ca-ba21-33daf9f391c4',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$AOmVDcEHkp3z8sObdQyVtuY8sodVFzAiKNDt4dBRtR5bS8Bs1StPC',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640284026,[39m
+[34m  exp: 1640370426[39m
+[34m}[39m
+2021-12-24T15:39:36.510Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-24T15:39:38.076Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-24T15:39:38.076Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-24T15:39:38.287Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-24T15:40:32.208Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-24T15:40:34.011Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-24T15:40:34.011Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-24T15:40:34.202Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-24T15:40:34.757Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '0584b56e-7bd5-41ca-ba21-33daf9f391c4',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$AOmVDcEHkp3z8sObdQyVtuY8sodVFzAiKNDt4dBRtR5bS8Bs1StPC',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640284026,[39m
+[34m  exp: 1640370426[39m
+[34m}[39m
+2021-12-24T15:40:59.043Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '0584b56e-7bd5-41ca-ba21-33daf9f391c4',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$AOmVDcEHkp3z8sObdQyVtuY8sodVFzAiKNDt4dBRtR5bS8Bs1StPC',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640284026,[39m
+[34m  exp: 1640370426[39m
+[34m}[39m
+2021-12-24T15:40:59.550Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2021-12-24T15:41:00.998Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode[39m
+2021-12-24T15:41:00.999Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop[39m
+2021-12-24T15:41:01.188Z|-|[32minfo[39m|-|[32mConnected to DB[39m
+2021-12-24T15:41:05.950Z|-|[34mdebug[39m|-|[34m{[39m
+[34m  id: '0584b56e-7bd5-41ca-ba21-33daf9f391c4',[39m
+[34m  email: '9810vipul.gupt11@gmail.com',[39m
+[34m  password: '$2b$10$AOmVDcEHkp3z8sObdQyVtuY8sodVFzAiKNDt4dBRtR5bS8Bs1StPC',[39m
+[34m  firstName: 'vipul',[39m
+[34m  lastName: 'gupta',[39m
+[34m  dob: '10/10/1998',[39m
+[34m  iat: 1640284026,[39m
+[34m  exp: 1640370426[39m
+[34m}[39m

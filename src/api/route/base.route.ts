@@ -1,7 +1,7 @@
 import express from "express";
 // import { BusinessController} from "@api/controller/user.controller";
 import { HttpRequestValidator } from "@middleware/http-request-validator";
-import { userRegisterValidator, loginDetails, updatePassword } from "@api/validator/business.validator";
+import { userRegisterValidator, loginDetails, updatePassword, reminder, updateReminder } from "@api/validator/reminder.validator";
 import { AuthenticateRequest } from "@middleware/authenticate-request";
 import { userController } from "@api/controller/user.controller";
 import { remindersController } from "@api/controller/reminders.controller";
@@ -41,6 +41,20 @@ class BaseRoute {
       this.authenticate,
       this.httpRequestValidator.validate('body', updatePassword),
       this.userController.updatePassword
+    );
+
+    this.router.post(
+      '/reminder',
+      this.authenticate,
+      this.httpRequestValidator.validate('body', reminder),
+      this.remindersController.addReminder
+    );
+
+    this.router.put(
+      '/reminder',
+      this.authenticate,
+      this.httpRequestValidator.validate('body', updateReminder),
+      this.remindersController.updateReminder
     );
   }
 }

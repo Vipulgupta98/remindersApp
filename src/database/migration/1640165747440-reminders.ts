@@ -16,7 +16,7 @@ export class reminders1640165747440 implements MigrationInterface {
                 default: "uuid_generate_v4()",
             },
             {
-                name: "reminderName",
+                name: "reminder_name",
                 type: "varchar",
                 isNullable: true,
                 isUnique: false,
